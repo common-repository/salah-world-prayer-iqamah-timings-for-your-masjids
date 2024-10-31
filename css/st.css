@@ -1,0 +1,16 @@
+table.jCalendar td.weekend, table.jCalendar td.weekend:hover {
+    background: #777;
+    color: #555;
+}
+.custom {
+color: #333333;
+font-weight:600;
+}
+.times {
+color: #1c94c4;
+font-weight:600;
+}
+.stimes {
+color: #c77405;
+font-weight:600;
+}
